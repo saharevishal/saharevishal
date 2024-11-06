@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @saharevishal
-- 👀 I’m interested in ...Data scientist
-- 🌱 I have certificate of Data science AI/ML .
-- 💞️ I’m looking to collaborate on ...Data analyst and Data scientist job profile
-- 📫 How to reach me ...9011664768
-- 😄 Pronouns: ...mr
+- 👀 I’m interested in data science and machine learning
+- 🌱  Certified in Data Science and AI/ML .
+- 💼 I’m looking to collaborate on data analyst and data scientist projects
+- 📫  Reach me at: vishalsahare922@gmail.com
+- 😄 Pronouns: he/him
   
 
 <!---
